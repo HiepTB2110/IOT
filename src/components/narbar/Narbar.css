@@ -1,0 +1,37 @@
+.nav-wrap {
+  width: 18%;
+  background-color: #00192d;
+  color: white;
+}
+
+.image img {
+  width: 100%;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  text-align: center;
+  cursor: pointer;
+}
+
+.item.active {
+  background-color: #009cff;
+  color: #fff;
+}
+
+.icon {
+  margin-right: 6px;
+  font-size: 14px;
+}
+
+.link {
+  padding: 12px 20px;
+  text-decoration: none;
+  display: block;
+  color: #fff;
+}

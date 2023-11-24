@@ -1,0 +1,27 @@
+/* Content.css */
+
+.small-image {
+    width: 100px;
+    height: auto;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid black;
+    padding: 8px;
+    border-spacing: 0px;
+  }
+  
+  .table th {
+    background-color: #ddd;
+  }
+  
+  .tab {
+    border-spacing: 0px;
+  }
+  

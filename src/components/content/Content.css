@@ -1,0 +1,49 @@
+/* Content.css */
+
+.small-image {
+  width: 100px;
+  height: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid black;
+  padding: 8px;
+  border-spacing: 0px;
+}
+
+.table th {
+  background-color: #ddd;
+}
+
+.tab {
+  padding-top: 20px;
+  border-spacing: 0px;
+  width: 100%;
+  margin-left: 90px;
+}
+.header_wr {
+  display: flex;
+  margin-left: 90px;
+  margin-top: 30px;
+  justify-content: space-between;
+}
+.sub{
+  width: 120px;
+  height: 30px;
+  background: aquamarine;
+  border-radius: 10px;
+}
+
+.sub:hover{
+  background: #ff5400;
+}
+
+/* .add{
+  margin-right: 90%;
+} */

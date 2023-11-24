@@ -1,0 +1,8 @@
+.container-wrap{
+    width: 100%;
+    /* padding-left: 5%; */
+    display: flex;
+}
+.content {
+    width: 70%;
+}
